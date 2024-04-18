@@ -35,7 +35,7 @@ def absolute_truth_1(truth):
   return truth
 
 #########################################################################################
-### calculating correlation coefficient between your data with two reference datasets ###
+### calculating correlation coefficient between your data and two reference datasets ###
 #########################################################################################
 
 def absolute_accuracy(expr_data,truth_1,truth_2):

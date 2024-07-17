@@ -1,5 +1,5 @@
 # Asssessment-of-RNA-seq-performance
-R or Python code for data analysis of the manuscript entitled "Toward Best Practice in Identifying Subtle Differential Expression with RNA-seq: A Real-World Multi-Center Benchmarking Study Using Quartet and MAQC Reference Materials"
+R or Python code for data analysis of the manuscript entitled "A Real-World Multi-Center RNA-seq Benchmarking Study Using Quartet and MAQC Reference Materials"
 
 Here we provide scripts for assessing RNA-seq performance, inclduing data quality, accuracy of absolute and relative gene expression, and accuracy of differentially expressed genes.
 Four types of reference datasets are used, inclduing ERCC spikein truth, Quartet reference datasets, Quartet TaqMan datasets, and MAQC TaqMan datsets. We have provided these files named "ercc_control_data.txt" , "quartet_reference_datasets.txt", "quartet_taqMan_datasets.txt", and "maqc_taqMan_datasets.txt".
